@@ -22,7 +22,7 @@
 **Open Channels:**
 
 * Portfolio Website (mixo.io/site/cyber-port-5eq85)
-* Instagram Profile ([link](https://www.instagram.com/ph1n3y/))
+* Instagram Profile (https://www.instagram.com/ph1n3y/))
 * [LinkedIn Profile (www.linkedin.com/in/phinehas-narh-49310728b)
 
 **Current Mission:**
