@@ -7,8 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phinehasnarh&label=Profile%20views&color=0e75b6&style=flat" alt="phinehasnarh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.mixo.io/site/cyber-port-5eq85](https://www.mixo.io/site/cyber-port-5eq85)
+- **Skills & Languages** 
+- **Primary Language**: Python 
+- **Secondary Languages**: CSS, PHP, javascript, and C++
+**Hacking Tools**: Metasploit, Burp Suite, Wireshark, Nmap
+**Operating Systems**: Windows, Linux (Ubuntu, Kali, Arch)
+**Version Control**: Git & GitHub
 
+- 👨‍💻 My Portfolio website at [https://www.mixo.io/site/cyber-port-5eq85](https://www.mixo.io/site/cyber-port-5eq85)
+  
 - 📫 How to reach me **phinehastettehnarh@gmail.com**
 
 - ⚡ Fun fact **The world's first computer virus was created in 1971 by a student to see how fast it could spread on a university network. It wasn't malicious, but it definitely highlighted the importance of cyber security!**
