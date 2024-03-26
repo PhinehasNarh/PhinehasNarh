@@ -1,3 +1,5 @@
+![logo](https://github.com/PhinehasNarh/PhinehasNarh/blob/main/Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Phinehas Narh</h1>
 <h3 align="center">I'm a third-year university student on a mission to safeguard the digital frontier... I think like the bad guys, but work for the good guys. I poke holes in systems to find weaknesses before the real attackers do. This is my playground for ethical hacking and security experimentation.</h3>
 
