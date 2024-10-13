@@ -20,7 +20,7 @@
   
 - 📫 How to reach me **phinehastettehnarh@gmail.com**
 
-- ⚡ Fun fact **"The world's first computer virus was created in 1971 by a student to see how fast it could spread on a university network. It wasn't malicious, but it definitely highlighted the importance of cyber security!"**
+- ⚡ Fun fact **"A shell script is a bash script, but a bash script isn't necessarily a shell script...stay with me"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
