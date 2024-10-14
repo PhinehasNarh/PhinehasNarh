@@ -1,7 +1,7 @@
 ![logo](https://github.com/PhinehasNarh/PhinehasNarh/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Phinehas Narh</h1>
-<h3 align="center">Exploring the edges of security—where bugs become puzzles, exploits become lessons, and every system is a playground for better defenses.</h3>
+<h3 align="center">I'm exploring the edges of security—where bugs become puzzles, exploits become lessons, and every system is a playground for better defenses.</h3>
 
 <img align="right" alt="coding" width=400 src="https://imgs.search.brave.com/Vut9nc8LfNhIZ1gxeAndK8UzXmbCaRJT3kKEbeMsV10/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/Y29tcHV0ZXItZ3V5/LWhhY2tpbmctbG1v/anoyenNiaTZ4bXZ6/NS5naWY.gif">
 
