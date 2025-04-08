@@ -15,12 +15,10 @@
 - **Version Control**: Git & GitHub
 
 
-
-- 👨‍💻 My Portfolio website at [https://www.mixo.io/site/cyber-port-5eq85](https://www.mixo.io/site/cyber-port-5eq85)
   
 - 📫 How to reach me **phinehastettehnarh@gmail.com**
 
-- ⚡ Fun fact **"A shell script is a bash script, but a bash script isn't necessarily a shell script...stay with me"**
+- ⚡ Fun fact **"A shell script is a bash script, but a bash script isn't necessarily a shell script...stay with me!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
