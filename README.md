@@ -21,10 +21,21 @@
 - ⚡ Fun fact **"A shell script is a bash script, but a bash script isn't necessarily a shell script...stay with me!"**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/phinehasnarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phinehasnarh" height="30" width="40" /></a>
-<a href="https://instagram.com/ph1n3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ph1n3y" height="30" width="40" /></a>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/phinehasnarh" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/ph1n3y" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
