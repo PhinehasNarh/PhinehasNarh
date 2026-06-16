@@ -34,7 +34,11 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
       </a>
     </td>
-  </tr>
+<td>
+  <a href="https://website-lilac-mu-26.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="40" />
+  </a>
+</td>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
