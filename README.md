@@ -1,6 +1,6 @@
 ![logo](https://github.com/PhinehasNarh/PhinehasNarh/blob/main/Banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Phinehas Narh</h1>
+<h1 align="center">Hello there 👋, I'm Phinehas Narh</h1>
 <h3 align="center">I spend my time breaking things, understanding why they break, and using that knowledge to build more secure systems.</h3>
 
 <img align="right" alt="coding" width=400 src="https://imgs.search.brave.com/Vut9nc8LfNhIZ1gxeAndK8UzXmbCaRJT3kKEbeMsV10/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/Y29tcHV0ZXItZ3V5/LWhhY2tpbmctbG1v/anoyenNiaTZ4bXZ6/NS5naWY.gif">
