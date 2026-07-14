@@ -63,6 +63,10 @@ ph1n3y@kali:~$ cat funfact.sh
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PhinehasNarh&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
+**Contributions in the last year**
+
+<img src="https://ghchart.rshah.org/00FF41/PhinehasNarh" alt="contribution calendar" width="98%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhinehasNarh&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="activity graph" width="98%" />
 
 </div>
