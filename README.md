@@ -38,7 +38,7 @@ ph1n3y@kali:~$ cat funfact.sh
 
 <img src="hdr-cloud.svg" alt="$ az login ./cloud-security-operations" />
 
-<img height="32" src="https://api.iconify.design/mdi/aws.svg?color=%23FF9900&height=32" alt="AWS" /> <img height="32" src="https://api.iconify.design/logos/microsoft-azure.svg?height=32" alt="Azure" /> <img height="32" src="https://api.iconify.design/mdi/shield-check.svg?color=%230b6cda&height=32" alt="Microsoft Defender" /> <img height="32" src="intune.svg" alt="Intune" /> <img height="32" src="https://api.iconify.design/logos/google-cloud.svg?height=32" alt="Google Cloud" /> <img height="32" src="https://api.iconify.design/mdi/cloud-lock.svg?color=%230068B5&height=32" alt="Zscaler" />
+<img height="32" src="https://api.iconify.design/mdi/aws.svg?color=%23FF9900&height=32" alt="AWS" /> <img height="32" src="https://api.iconify.design/logos/microsoft-azure.svg?height=32" alt="Azure" /> <img height="32" src="https://api.iconify.design/mdi/shield-check.svg?color=%230b6cda&height=32" alt="Microsoft Defender" /> <img height="32" src="https://api.iconify.design/logos/google-cloud.svg?height=32" alt="Google Cloud" /> <img height="32" src="https://api.iconify.design/mdi/cloud-lock.svg?color=%230068B5&height=32" alt="Zscaler" />
 
 <img src="hdr-blueteam.svg" alt="$ cat ./blue-team-threat-intel-forensics" />
 
