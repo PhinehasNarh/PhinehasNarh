@@ -15,14 +15,7 @@
 
 </div>
 
-```bash
-ph1n3y@kali:~$ whoami
-> ph1n3y :: Security Engineer  |  Offensive Security  |  DevSecOps
-> I find, exploit, and help remediate flaws across web, API, and cloud.
-
-ph1n3y@kali:~$ cat funfact.sh
-> A shell script is a bash script, but a bash script isn't necessarily a shell script... stay with me!
-```
+<img src="term-whoami.svg" alt="ph1n3y@kali:~$ whoami" />
 
 <img src="hdr-languages.svg" alt="$ ls -la ./languages" />
 
@@ -83,7 +76,4 @@ ph1n3y@kali:~$ cat funfact.sh
 
 <table width="100%"><tr><td align="center"><a href="https://linkedin.com/in/phinehasnarh"><img height="26" src="https://api.iconify.design/logos/linkedin-icon.svg?height=26" alt="LinkedIn" /></a></td><td align="center"><a href="https://x.com/ph1n3y"><img height="26" src="https://api.iconify.design/simple-icons/x.svg?color=%23c9d1d9&height=26" alt="X" /></a></td><td align="center"><a href="https://instagram.com/ph1n3y"><img height="26" src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E4405F&height=26" alt="Instagram" /></a></td><td align="center"><a href="https://website-lilac-mu-26.vercel.app/"><img height="26" src="https://api.iconify.design/logos/chrome.svg?height=26" alt="Portfolio" /></a></td><td align="center"><a href="mailto:phinehastettehnarh@gmail.com"><img height="26" src="https://api.iconify.design/logos/google-gmail.svg?height=26" alt="Email" /></a></td><td align="center"><a href="https://github.com/PhinehasNarh/PhinehasNarh/blob/main/Phinehas_Narh_CV.pdf"><img height="26" src="https://img.shields.io/badge/Preview_CV-8B5CF6?style=flat-square&labelColor=0d1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMiA5YTMgMyAwIDAgMC0zIDNhMyAzIDAgMCAwIDMgM2EzIDMgMCAwIDAgMy0zYTMgMyAwIDAgMC0zLTNtMCA4YTUgNSAwIDAgMS01LTVhNSA1IDAgMCAxIDUtNWE1IDUgMCAwIDEgNSA1YTUgNSAwIDAgMS01IDVtMC0xMi41QzcgNC41IDIuNzMgNy42MSAxIDEyYzEuNzMgNC4zOSA2IDcuNSAxMSA3LjVzOS4yNy0zLjExIDExLTcuNWMtMS43My00LjM5LTYtNy41LTExLTcuNSIvPjwvc3ZnPg%3D%3D" alt="Preview CV" /></a></td><td align="center"><a href="https://github.com/PhinehasNarh/PhinehasNarh/raw/main/Phinehas_Narh_CV.pdf"><img height="26" src="https://img.shields.io/badge/Download_CV-8B5CF6?style=flat-square&labelColor=0d1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik01IDIwaDE0di0ySDVtMTQtOWgtNFYzSDl2Nkg1bDcgN3oiLz48L3N2Zz4%3D" alt="Download CV" /></a></td></tr></table>
 
-```bash
-ph1n3y@kali:~$ exit
-> Connection to ph1n3y closed. Stay curious, stay secure.
-```
+<img src="term-exit.svg" alt="ph1n3y@kali:~$ exit" />

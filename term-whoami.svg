@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 829 144" width="829" height="144" role="img" aria-label="terminal">
+<rect width="829" height="144" rx="8" fill="#161b22"/>
+<text x="16" y="26" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#00FF41" xml:space="preserve">ph1n3y@kali:~$ whoami</text>
+<text x="16" y="46" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#79c0ff" xml:space="preserve">&gt; ph1n3y :: Security Engineer  |  Offensive Security  |  DevSecOps</text>
+<text x="16" y="66" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#79c0ff" xml:space="preserve">&gt; I find, exploit, and help remediate flaws across web, API, and cloud.</text>
+<text x="16" y="106" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#00FF41" xml:space="preserve">ph1n3y@kali:~$ cat funfact.sh</text>
+<text x="16" y="126" font-family="ui-monospace,Consolas,monospace" font-size="13" fill="#79c0ff" xml:space="preserve">&gt; A shell script is a bash script, but a bash script isn't necessarily a shell script... stay with me!</text>
+</svg>
