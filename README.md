@@ -1,6 +1,6 @@
 # Phinehas Narh
 
-**Security Engineer.** I break web apps, APIs, and cloud, then build the tooling and controls so it does not happen twice. Application Security by day; I ship security tools and send fixes upstream on the side.
+**Security Engineer.** I break web apps, APIs, and cloud, then build the tooling and controls so it does not happen twice. Application Security by day, I ship security tools and send fixes upstream on the side.
 
 [LinkedIn](https://linkedin.com/in/phinehasnarh) &nbsp;·&nbsp; [X](https://x.com/ph1n3y) &nbsp;·&nbsp; [Portfolio](https://website-lilac-mu-26.vercel.app/) &nbsp;·&nbsp; [CV](Phinehas_Narh_CV.pdf) &nbsp;·&nbsp; phinehastettehnarh@gmail.com
 
