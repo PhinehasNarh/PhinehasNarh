@@ -25,10 +25,13 @@ Fixed a tar-slip path traversal in MLRun's `clone_tgz()` archive extraction ([co
 
 ## Toolkit
 
-Python &nbsp;·&nbsp; C# &nbsp;·&nbsp; Go &nbsp;·&nbsp; Bash &nbsp;&nbsp;|&nbsp;&nbsp; Burp Suite &nbsp;·&nbsp; Metasploit &nbsp;·&nbsp; Nmap &nbsp;·&nbsp; Nessus &nbsp;·&nbsp; Nuclei &nbsp;·&nbsp; Wireshark &nbsp;·&nbsp; Kali &nbsp;&nbsp;|&nbsp;&nbsp; SonarQube &nbsp;·&nbsp; Trivy &nbsp;·&nbsp; Checkov &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;&nbsp;|&nbsp;&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; GCP &nbsp;·&nbsp; Defender &nbsp;·&nbsp; Zscaler &nbsp;&nbsp;|&nbsp;&nbsp; MITRE ATT&CK &nbsp;·&nbsp; DFIR &nbsp;&nbsp;|&nbsp;&nbsp; ISO 27001/27701 &nbsp;·&nbsp; PCI-DSS &nbsp;·&nbsp; NIST 800-53
-
-## Certifications
-
-CAPen (passed with Merit) &nbsp;·&nbsp; CompTIA Security+ &nbsp;·&nbsp; ISO 27001:2022 Lead Auditor &nbsp;·&nbsp; CCNA &nbsp;·&nbsp; Cisco CyberOps &nbsp;·&nbsp; AWS Cloud Practitioner &nbsp;·&nbsp; CRTOM. Full list on my [CV](Phinehas_Narh_CV.pdf).
+| Area | Stack |
+|---|---|
+| **Languages** | Python, C#, Go, Bash |
+| **Offensive** | Burp Suite, Metasploit, Nmap, Nessus, Nuclei, Wireshark, Kali Linux |
+| **AppSec & DevSecOps** | SonarQube, Trivy, Checkov, Gitleaks, OWASP Top 10, Docker, Kubernetes, GitHub Actions, nginx |
+| **Cloud** | AWS, Azure, Google Cloud, Microsoft Defender, Zscaler |
+| **Detection & DFIR** | MITRE ATT&CK, threat hunting, threat intelligence, incident response, digital forensics |
+| **Governance** | ISO 27001/27701, PCI-DSS, NIST 800-53, CIS Benchmarks |
 
 <sub>A shell script is a bash script, but a bash script is not necessarily a shell script.</sub>
