@@ -6,20 +6,18 @@
 
 ---
 
-## Projects
-
-| Project | What it does |
-|---|---|
-| **[vuln-console](https://github.com/PhinehasNarh/vuln-console)** | Self-hosted single pane of glass for application security findings: triage, dedupe, remediation tracking. |
-| **[CTI Toolkit](https://github.com/PhinehasNarh/CTI-Cyber-Threat-Intelligence-Toolkit)** | Threat-intelligence platform: IOC enrichment, CISA KEV tracking, and feed processing for SOC and red teams. |
-| **[cve-research](https://github.com/PhinehasNarh/cve-research)** | Incident-response breakdown of CVE-2024-4577 (PHP-CGI zero-day), reconstructed from IDS/IPS and server logs. |
-| **[pygen](https://github.com/PhinehasNarh/pygen)** | Package vulnerability triage and remediation for Debian-family systems. |
-| **[write-blocker](https://github.com/PhinehasNarh/write-blocker)** | OS-level software write blocker for digital forensics, written in C. |
-| **[o1xport](https://github.com/PhinehasNarh/o1xport)** | Multi-threaded port scanner for network reconnaissance. |
-
 ## Open source
 
-Fixed a tar-slip path traversal in MLRun's `clone_tgz()` archive extraction ([contributions](https://github.com/mlrun/mlrun/pulls?q=is%3Apr+author%3APhinehasNarh)) and contributed a fix upstream to Checkov ([contributions](https://github.com/bridgecrewio/checkov/pulls?q=is%3Apr+author%3APhinehasNarh)). I also study and build on garak, nuclei-templates, gitleaks, and mitmproxy.
+Security fixes and detectors sent upstream to projects I use.
+
+| Project | Contribution | Status |
+|---|---|:--|
+| **[NVIDIA / garak](https://github.com/NVIDIA/garak/pull/1884)** | Unicode normalisation for the StringDetector, on NVIDIA's LLM vulnerability scanner | Merged |
+| **[mlrun](https://github.com/mlrun/mlrun/pull/9919)** | Fixed a tar-slip path traversal in `clone_tgz()` archive extraction | Merged |
+| **[canonical / cloud-init](https://github.com/canonical/cloud-init/pull/6916)** | Type annotations for `distros.parsers.hosts` | Merged |
+| **[checkov](https://github.com/bridgecrewio/checkov/pull/7595)** | New policy CKV_AWS_394 for public Secrets Manager secrets | In review |
+| **[gitleaks](https://github.com/gitleaks/gitleaks/pull/2181)** | Detection rules for Groq and xAI API keys | In review |
+| **[trufflehog](https://github.com/trufflesecurity/trufflehog/pull/5129)** | Cerebras API key detector | In review |
 
 ## Toolkit
 
