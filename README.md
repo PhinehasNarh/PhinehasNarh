@@ -43,19 +43,6 @@
 
 ---
 
-<img src="hdr-projects.svg" alt="$ ls -la ./featured-projects" />
-
-- **[Cloud-Audit-101](https://github.com/PhinehasNarh/Cloud-Audit-101)** :: AWS + Azure misconfiguration scanner, 80+ checks across 21 services, mapped to CIS, PCI-DSS v4, ISO 27001, and NIST 800-53. SARIF output plus a shareable HTML dashboard.
-- **[Scan-dashboard](https://github.com/PhinehasNarh/Scan-dashboard)** :: Unified AppSec dashboard aggregating Trivy, SonarCloud, Bandit, and secret-scan results across 400+ repo scans in one pane of glass.
-- **[CTI Toolkit](https://github.com/PhinehasNarh/CTI-Cyber-Threat-Intelligence-Toolkit)** :: Cyber threat intelligence platform, ingests and enriches IOCs, tracks CISA KEV, and processes RSS feeds for SOC analysts and red teamers.
-- **[vuln-console](https://github.com/PhinehasNarh/vuln-console)** :: Self-hosted vulnerability triage and remediation console.
-- **[cve-research](https://github.com/PhinehasNarh/cve-research)** :: Incident-response investigation of CVE-2024-4577 (PHP-CGI zero-day), reconstructed from IDS/IPS and web-server logs.
-- **[o1xport](https://github.com/PhinehasNarh/o1xport)** :: Multi-threaded Python port scanner for penetration testing and network reconnaissance.
-
-<sub>More: [write-blocker](https://github.com/PhinehasNarh/write-blocker) (C) · [pygen](https://github.com/PhinehasNarh/pygen) · [zero-trust-architecture](https://github.com/PhinehasNarh/zero-trust-architecture) · [Browser-Trust](https://github.com/PhinehasNarh/Browser-Trust) · [Off-Sec-Projects](https://github.com/PhinehasNarh/Off-Sec-Projects)</sub>
-
----
-
 <img src="hdr-stats.svg" alt="$ ./stats --render --theme=matrix" />
 
 <div align="center">
@@ -75,5 +62,3 @@
 <img src="hdr-social.svg" alt="$ ./connect --social" />
 
 <table width="100%"><tr><td align="center"><a href="https://linkedin.com/in/phinehasnarh"><img height="26" src="https://api.iconify.design/logos/linkedin-icon.svg?height=26" alt="LinkedIn" /></a></td><td align="center"><a href="https://x.com/ph1n3y"><img height="26" src="https://api.iconify.design/simple-icons/x.svg?color=%23c9d1d9&height=26" alt="X" /></a></td><td align="center"><a href="https://instagram.com/ph1n3y"><img height="26" src="https://api.iconify.design/simple-icons/instagram.svg?color=%23E4405F&height=26" alt="Instagram" /></a></td><td align="center"><a href="https://website-lilac-mu-26.vercel.app/"><img height="26" src="https://api.iconify.design/logos/chrome.svg?height=26" alt="Portfolio" /></a></td><td align="center"><a href="mailto:phinehastettehnarh@gmail.com"><img height="26" src="https://api.iconify.design/logos/google-gmail.svg?height=26" alt="Email" /></a></td><td align="center"><a href="https://github.com/PhinehasNarh/PhinehasNarh/blob/main/Phinehas_Narh_CV.pdf"><img height="26" src="https://img.shields.io/badge/Preview_CV-8B5CF6?style=flat-square&labelColor=0d1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMiA5YTMgMyAwIDAgMC0zIDNhMyAzIDAgMCAwIDMgM2EzIDMgMCAwIDAgMy0zYTMgMyAwIDAgMC0zLTNtMCA4YTUgNSAwIDAgMS01LTVhNSA1IDAgMCAxIDUtNWE1IDUgMCAwIDEgNSA1YTUgNSAwIDAgMS01IDVtMC0xMi41QzcgNC41IDIuNzMgNy42MSAxIDEyYzEuNzMgNC4zOSA2IDcuNSAxMSA3LjVzOS4yNy0zLjExIDExLTcuNWMtMS43My00LjM5LTYtNy41LTExLTcuNSIvPjwvc3ZnPg%3D%3D" alt="Preview CV" /></a></td><td align="center"><a href="https://github.com/PhinehasNarh/PhinehasNarh/raw/main/Phinehas_Narh_CV.pdf"><img height="26" src="https://img.shields.io/badge/Download_CV-8B5CF6?style=flat-square&labelColor=0d1117&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik01IDIwaDE0di0ySDVtMTQtOWgtNFYzSDl2Nkg1bDcgN3oiLz48L3N2Zz4%3D" alt="Download CV" /></a></td></tr></table>
-
-<img src="term-exit.svg" alt="ph1n3y@kali:~$ exit" />
