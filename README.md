@@ -2,17 +2,9 @@
 
 **Security Engineer.** I break into web apps, APIs, and cloud, then build the tooling and controls so it does not happen twice. Application Security Engineer by day; I ship security tools and send fixes upstream on the side.
 
-Accra, Ghana &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/phinehasnarh) &nbsp;·&nbsp; [X](https://x.com/ph1n3y) &nbsp;·&nbsp; [Portfolio](https://website-lilac-mu-26.vercel.app/) &nbsp;·&nbsp; [CV](Phinehas_Narh_CV.pdf) &nbsp;·&nbsp; phinehastettehnarh@gmail.com
+[LinkedIn](https://linkedin.com/in/phinehasnarh) &nbsp;·&nbsp; [X](https://x.com/ph1n3y) &nbsp;·&nbsp; [Portfolio](https://website-lilac-mu-26.vercel.app/) &nbsp;·&nbsp; [CV](Phinehas_Narh_CV.pdf) &nbsp;·&nbsp; phinehastettehnarh@gmail.com
 
 ---
-
-## Experience
-
-**Application Security Engineer**, ACS &nbsp;·&nbsp; 2025 to present
-Web and API penetration testing (REST and GraphQL) that surfaced authentication bypass, BOLA/BFLA, and injection in production. Built SAST and DAST gates (SonarQube) into CI/CD, hardened nginx, and supported ISO 27001:2022 certification through Stage 1 and Stage 2 audits.
-
-**Security Analyst**, EITBS &nbsp;·&nbsp; 2022 to 2024
-Ran vulnerability assessments and penetration tests with Nessus, drove remediation of 7 critical findings, and lifted phishing resilience 47% through EDR and awareness programs. Led the managed-SOC evaluation projected to cut mean time to respond by 70%.
 
 ## Selected work
 
