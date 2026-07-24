@@ -39,7 +39,7 @@
 
 <img src="hdr-grc.svg" alt="$ cat ./governance-risk-compliance" />
 
-<img height="30" src="https://img.shields.io/badge/ISO-27001%3A2022-6D28D9?style=flat-square&labelColor=555555" alt="ISO 27001" /> <img height="30" src="https://img.shields.io/badge/PCI--DSS-v4-EF4444?style=flat-square&labelColor=555555" alt="PCI-DSS" /> <img height="30" src="https://img.shields.io/badge/NIST-800--53-2088FF?style=flat-square&labelColor=555555" alt="NIST" /> <img height="30" src="https://img.shields.io/badge/CIS-Benchmarks-11998E?style=flat-square&labelColor=555555" alt="CIS Benchmarks" /> <img height="30" src="https://img.shields.io/badge/Risk-Management-EC4899?style=flat-square&labelColor=555555" alt="Risk Management" /> <img height="30" src="https://img.shields.io/badge/ITIL-v4-00ADD8?style=flat-square&labelColor=555555" alt="ITIL" />
+<img height="30" src="https://img.shields.io/badge/ISO-27001%3A2022-6D28D9?style=flat-square&labelColor=555555" alt="ISO 27001" /> <img height="30" src="https://img.shields.io/badge/ISO-27701%3A2025-8B5CF6?style=flat-square&labelColor=555555" alt="ISO 27701" /> <img height="30" src="https://img.shields.io/badge/PCI--DSS-v4-EF4444?style=flat-square&labelColor=555555" alt="PCI-DSS" /> <img height="30" src="https://img.shields.io/badge/NIST-800--53-2088FF?style=flat-square&labelColor=555555" alt="NIST" /> <img height="30" src="https://img.shields.io/badge/CIS-Benchmarks-11998E?style=flat-square&labelColor=555555" alt="CIS Benchmarks" /> <img height="30" src="https://img.shields.io/badge/Risk-Management-EC4899?style=flat-square&labelColor=555555" alt="Risk Management" /> <img height="30" src="https://img.shields.io/badge/ITIL-v4-00ADD8?style=flat-square&labelColor=555555" alt="ITIL" />
 
 ---
 
